@@ -17,4 +17,4 @@
 images:
   - gcr.io/$PROJECT_ID/amazingapp:$COMMIT_SHA
 
-logsBucket: "gs://app-eng  
+logsBucket: "gs://app-eng"  
